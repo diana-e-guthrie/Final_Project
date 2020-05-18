@@ -1,0 +1,75 @@
+ID,City,Walk Score,Transit Score,Bike Score,Population
+1,Downtown,93,89,94,15382
+2,Capitol Hill,93,66,96,14685
+3,Five Points,90,73,97,12709
+4,Baker,86,60,87,4875
+5,Cheesman Park,85,53,90,7984
+6,Jefferson Park,85,56,80,2526
+7,Highland,85,60,88,8434
+8,Lincoln Park,85,76,94,6117
+9,Speer,85,55,95,10957
+10,City Park West,85,55,95,4854
+11,Platt Park,82,61,82,5392
+12,Cole,82,54,92,4646
+13,Berkeley,82,39,70,8115
+14,City Park,81,54,83,2894
+15,Whittier,81,53,95,4832
+16,Cherry Creek,80,49,79,5583
+17,Congress Park,80,51,88,10239
+18,West Highland,79,41,74,8535
+19,Country Club,77,46,86,3003
+20,Sunnyside,76,43,80,9711
+21,Valverde,75,45,69,3951
+22,Barnum,74,44,76,6045
+23,Washington Park West,73,62,88,6378
+24,Hale,71,48,77,6942
+25,Athmar Park,69,48,62,8897
+26,Clayton,69,48,79,4360
+27,West Colfax,69,59,84,9742
+28,Sun Valley,68,64,85,1463
+29,Washington Virginia Vale,67,44,77,12838
+30,Rosedale,67,53,73,2549
+31,Westwood,65,42,67,15484
+32,Sloan Lake,65,43,78,7263
+33,University Park,65,48,80,7491
+34,Montclair,64,47,71,5463
+35,East Colfax,64,52,74,10167
+36,Belcaro,64,42,84,4215
+37,Ruby Hill,64,42,67,9826
+38,Virginia Village,63,44,74,12567
+39,Cory-Merrill,63,45,76,3896
+40,University,63,44,78,9372
+41,Goldsmith,62,49,72,6886
+42,University Hills,62,53,72,5583
+43,Barnum West,61,39,69,5435
+44,Chaffee Park,61,38,61,3882
+45,Overland,60,64,75,2205
+46,Park Hill,60,47,80,25806
+47,Skyland,60,47,87,3085
+48,Mar Lee,60,42,68,12446
+49,College View,59,44,65,6200
+50,Washington Park,59,43,79,6915
+51,Elyria Swansea,56,43,67,6399
+52,Kennedy,55,56,69,4380
+53,Hampden,55,43,71,18535
+54,Villa Park,55,51,72,8755
+55,Hilltop,55,43,68,8088
+56,Lowry Field,52,39,72,8155
+57,Auraria,51,81,81,705
+58,Regis,50,37,57,3944
+59,Globeville,50,38,71,3674
+60,Stapleton,47,44,66,14374
+61,Wellshire,46,35,69,2885
+62,Hampden South,46,52,67,15459
+63,Harvey Park,42,42,59,11275
+64,Montbello,41,39,50,30374
+65,Windsor,40,39,63,12936
+66,Southmoor Park,37,57,61,3839
+67,Harvey Park South,36,38,56,7785
+68,Gateway,35,38,54,6935
+69,Marston,34,31,41,12960
+70,Bear Valley,33,38,52,9926
+71,Indian Creek,29,38,64,3261
+72,Fort Logan,24,29,44,9211
+73,Green Valley Ranch,20,34,50,22092
+74,Denver International Airport,19,30,49,1166
