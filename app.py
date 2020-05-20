@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
+from PIL import Image
 
 neighborhoods = ['Belcaro',
 'Capitol Hill',
@@ -48,6 +49,19 @@ def run_model(model, df):
     return model.predict(input_df)
 
 def main():
+    st.title("Denver Apartment Rental Costs")
+    st.header("How much should you charge for your rental property?")
+    # st.pydeck_chart(pdk.Deck(
+    #     map_style='mapbox://styles/mapbox/light-v9',
+    #     initial_view_state=pdk.ViewState(
+    #     latitude=39.742043,
+    #     longitude=-104.991531,
+    #     zoom=11,
+    #     pitch=50,
+    #     )))
+    image = Image.open('denver.jpg')
+
+    st.image(image, use_column_width=True)
     st.sidebar.subheader("DenverRents")
     hood_selection = st.sidebar.selectbox("Select Neighborhood", neighborhoods)
     beds = st.sidebar.slider("Number of Bedrooms", min_value=0, max_value=6)
